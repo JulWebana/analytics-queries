@@ -20,7 +20,7 @@ Design and implement a Star Schema data model in BigQuery using the dataset bigq
 To support analytical queries, we implemented a Star Schema structure, centralizing session-level metrics in a single fact table and linking it to various dimension tables.
 
 
-![Star_Schema](diagram/star_schema.png)
+![Star Schema](diagrams/star_schema.png)
 
 
 
@@ -119,11 +119,15 @@ Identify top-spending customers over the past year and analyze their monthly rev
 
 The top 5 customers with the highest total purchase amounts over the past year
 
-![image-1](results_screenshots_diagrams/image-1.png)
+
+
+![image-1](results_screenshots_diagrams/the top 5 customers with the highest total purchases.png)
 
 
 
-Monthly revenue trends for top 5 users (each as a separate column
+
+
+Monthly revenue trends for top 5 users (each as a separate column)
 
 ![image-2](results_screenshots_diagrams/image-2.png)
 
