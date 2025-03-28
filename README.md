@@ -120,12 +120,13 @@ Identify top-spending customers over the past year and analyze their monthly rev
 
 The top 5 customers with the highest total purchase amounts over the past year
 
-![image-1](image-1.png)
+![image-1](results_screenshots_diagrams/image-1.png)
+
 
 
 Monthly revenue trends for top 5 users (each as a separate column
 
-![image-2](image-2.png)
+![image-2](results_screenshots_diagrams/image-2.png)
 
 ---
 
@@ -198,7 +199,7 @@ We used the BigQuery dataset staging_sessions and followed these steps:
 
 **Sample Results** 
 
-![image-3](image-3.png)
+![image-3](results_screenshots_diagrams/image-3.png)
 
 
 **High Growth Products**
@@ -254,7 +255,7 @@ Analyze the effectiveness of different traffic sources in driving conversions by
 •	Observing how these rates have evolved over the past 6 months.
 
 
-![Traffic Source Effectiveness](<Traffic Source Effectiveness.png>)
+![Traffic Source Effectiveness](results_screenshots_diagrams/Traffic Source Effectiveness.png)
 
 
 **Top Performer** : (direct)
@@ -348,7 +349,7 @@ Metrics calculated for each segment:
 
 **Results**
 
-![image-4](image-4.png)
+![image-4](results_screenshots_diagrams/image-4.png)
 
 
 **Insights & Interpretation**
@@ -389,7 +390,7 @@ Users who engage more (longer sessions, more pageviews) spend significantly more
 Analyze user churn over the past year by calculating the monthly churn and retention rates. Identify trends in user engagement and propose hypotheses explaining changes in user retention.
 
 
-![image-5](image-5.png)
+![image-5](results_screenshots_diagrams/image-5.png)
 
 
 **Note:** High churn rates suggest most users are not returning the next month. July and August 2017 show near-total churn, likely due to dataset limitations.
