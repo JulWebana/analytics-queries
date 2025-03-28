@@ -20,8 +20,7 @@ Design and implement a Star Schema data model in BigQuery using the dataset bigq
 To support analytical queries, we implemented a Star Schema structure, centralizing session-level metrics in a single fact table and linking it to various dimension tables.
 
 
-![Star Schema](diagram/star_schema.png)
-
+![Star_Schema](diagram/star_schema.png)
 
 
 
