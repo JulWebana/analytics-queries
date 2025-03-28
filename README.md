@@ -121,9 +121,7 @@ The top 5 customers with the highest total purchase amounts over the past year
 
 
 
-![the top 5 customers with the highest total purchases](results_screenshots_diagrams/the top 5 customers with the highest total purchases.png)
-
-
+![image-6](results_screenshots_diagrams/image-6.png)
 
 
 
